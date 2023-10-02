@@ -20,4 +20,4 @@ function isPalindrome(str) {
 
 
 // Call the function and pass an argument.
-isPalindrome("level")
+isPalindrome("racecar")
